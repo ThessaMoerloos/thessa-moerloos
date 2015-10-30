@@ -1,0 +1,13 @@
+D:\bureaublad\KDG\Programmeren2\Yatzee teerling\Yatzee teerling\bin\Debug\Yatzee teerling.exe.config
+D:\bureaublad\KDG\Programmeren2\Yatzee teerling\Yatzee teerling\bin\Debug\Yatzee teerling.exe
+D:\bureaublad\KDG\Programmeren2\Yatzee teerling\Yatzee teerling\bin\Debug\Yatzee teerling.pdb
+D:\bureaublad\KDG\Programmeren2\Yatzee teerling\Yatzee teerling\obj\Debug\Yatzee teerling.csprojResolveAssemblyReference.cache
+D:\bureaublad\KDG\Programmeren2\Yatzee teerling\Yatzee teerling\obj\Debug\Yatzee_teerling.Properties.Resources.resources
+D:\bureaublad\KDG\Programmeren2\Yatzee teerling\Yatzee teerling\obj\Debug\Yatzee_teerling.TeerlingView.resources
+D:\bureaublad\KDG\Programmeren2\Yatzee teerling\Yatzee teerling\obj\Debug\Yatzee_teerling.Yatzee.resources
+D:\bureaublad\KDG\Programmeren2\Yatzee teerling\Yatzee teerling\obj\Debug\Yatzee teerling.csproj.GenerateResource.Cache
+D:\bureaublad\KDG\Programmeren2\Yatzee teerling\Yatzee teerling\obj\Debug\Yatzee teerling.exe
+D:\bureaublad\KDG\Programmeren2\Yatzee teerling\Yatzee teerling\obj\Debug\Yatzee teerling.pdb
+D:\bureaublad\KDG\Software engineering\Yatzee\Yatzee teerling\Yatzee teerling\bin\Debug\Yatzee teerling.exe.config
+D:\bureaublad\KDG\Software engineering\Yatzee\Yatzee teerling\Yatzee teerling\obj\Debug\Yatzee teerling.exe
+D:\bureaublad\KDG\Software engineering\Yatzee\Yatzee teerling\Yatzee teerling\obj\Debug\Yatzee teerling.pdb
